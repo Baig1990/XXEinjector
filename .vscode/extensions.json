@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "koichisasada.vscode-rdbg",
+    "howardzuo.vscode-gitk",
+    "ms-vscode-remote.remote-containers"
+  ]
+}
